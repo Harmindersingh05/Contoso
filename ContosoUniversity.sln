@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.Api", "ContosoUniversity.Api\ContosoUniversity.Api.csproj", "{D7FA5BA4-E48F-41EB-AEE4-B69920C26239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.Test", "ContosoUniversity.Test\ContosoUniversity.Test.csproj", "{F6963ADF-D71E-4719-9063-4E07F1EFEB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FA5BA4-E48F-41EB-AEE4-B69920C26239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FA5BA4-E48F-41EB-AEE4-B69920C26239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FA5BA4-E48F-41EB-AEE4-B69920C26239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FA5BA4-E48F-41EB-AEE4-B69920C26239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6963ADF-D71E-4719-9063-4E07F1EFEB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6963ADF-D71E-4719-9063-4E07F1EFEB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6963ADF-D71E-4719-9063-4E07F1EFEB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6963ADF-D71E-4719-9063-4E07F1EFEB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579724FD-B86E-425A-A1FD-F0489D00A2FE}
+	EndGlobalSection
+EndGlobal
